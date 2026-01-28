@@ -55,7 +55,7 @@ export const skillComponents = {
 
 export const heroConfig = {
   // Personal Information
-  name: 'Hassan Iliyasu',
+  name: 'Hussain Iliyasu',
   title: 'AI Enthusiast | FullStack Engineer',
   avatar: getImagePath('/assets/logo.png'),
 
@@ -86,6 +86,12 @@ export const heroConfig = {
       href: 'https://nodejs.org/',
       component: 'NodeJs',
     },
+   
+    {
+      name: 'Python',
+      href: 'https://python.org/',
+      component: 'Python',
+    },
   ],
 
   // Description Configuration
@@ -110,17 +116,17 @@ export const heroConfig = {
 export const socialLinks = [
   {
     name: 'LinkedIn',
-    href: 'https://www.linkedin.com/in/hassan-jaeh-060484252/',
+    href: 'https://www.linkedin.com/in/hussain-ilyasu-ab096424a/',
     icon: <LinkedIn />,
   },
   {
     name: 'Github',
-    href: 'https://github.com/hassancode1',
+    href: 'https://github.com/Hussain-jaeh',
     icon: <Github />,
   },
   {
     name: 'Email',
-    href: 'mailto:hassanjaeh@gmail.com',
+    href: 'mailto:hussaijaeh320@gmail.com',
     icon: <Mail />,
   },
 ];
