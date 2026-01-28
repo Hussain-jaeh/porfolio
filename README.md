@@ -99,11 +99,11 @@ src/
 
 ## Contact
 
-Hassan Iliyasu - Software Engineer
+Hussain Iliyasu - Software Engineer
 
-- GitHub: [@hassancode1](https://github.com/hassancode1)
-- LinkedIn: [Hassan Iliyasu](https://linkedin.com/in/hassan-iliyasu)
-- Email: hassaniliyasu@example.com
+- GitHub: [@Hussain-jaeh](https://github.com/Hussain-jaeh)
+- LinkedIn: [Hussain Iliyasu](https://www.linkedin.com/in/hussain-iliyasu-06b21b237/)
+- Email: [hussaijaeh320@gmail.com]  
 
 ## License
 

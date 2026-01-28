@@ -1,5 +1,5 @@
 export const footerConfig = {
-  developer: 'Hassan',
+  developer: 'Hussain Iliyasu',
   text: 'Design & Developed by',
   copyright: 'All rights reserved.',
 };
