@@ -57,7 +57,7 @@ export const heroConfig = {
   // Personal Information
   name: 'Hussain Iliyasu',
   title: 'AI Enthusiast | FullStack Engineer',
-  avatar: getImagePath('/assets/logo.png'),
+  avatar: getImagePath('/assets/personal-logo.png'),
 
   // Skills Configuration
   skills: [

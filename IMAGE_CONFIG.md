@@ -36,7 +36,7 @@ const BASE_PATH = ''
 
 The `getImagePath()` function automatically:
 - **In Development**: Returns normal paths like `/assets/logo.png`
-- **In Production**: Adds the base path like `/repository-name/assets/logo.png`
+- **In Production**: Adds the base path like `/repository-name/assets/personal-logo.png`
 
 ## Usage
 
@@ -46,10 +46,10 @@ All image paths in the codebase use this utility:
 import { getImagePath } from '@/lib/utils';
 
 // In config files
-avatar: getImagePath('/assets/logo.png')
+avatar: getImagePath('/assets/personal-logo')
 
 // In components
-<Image src={getImagePath("/assets/logo.png")} alt="Logo" />
+<Image src={getImagePath("/assets/personal-logo.png")} alt="Logo" />
 ```
 
 ## Troubleshooting

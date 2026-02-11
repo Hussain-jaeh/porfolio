@@ -29,6 +29,6 @@ export const mySkills = [
 ];
 
 export const about = {
-  name: 'Hassan Iliyasu',
+  name: 'Hussain Iliyasu jaeh' ,
   description: `I'm a Full Stack Engineer and AI Enthusiast who loves building innovative solutions that democratize access to technology. I specialize in creating platforms that solve real-world problems through intelligent automation and user-centric design.`,
 };

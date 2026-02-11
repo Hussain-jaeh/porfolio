@@ -7,7 +7,7 @@ import { getImagePath } from '@/lib/utils';
 
 export const navbarConfig = {
   logo: {
-    src: getImagePath('/assets/logo.png'),
+    src: getImagePath('/assets/personal-logo.png'),
     alt: 'logo',
     width: 100,
     height: 100,

@@ -31,6 +31,48 @@ export interface Experience {
 }
 
 export const experiences: Experience[] = [
+
+   {
+    isCurrent: false,
+    company: 'Auvraai',
+    position: 'Software Engineer',
+    location: 'Remote',
+    image: getImagePath('/assets/auvraai.jpeg'),
+    description: [
+ ' Building an AI-powered customer support and team management platform serving as a modern alternative to Zendesk and Intercom with AI-first automation features',
+' Integrated OpenAI and Claude APIs to power intelligent ticket summarization, intent detection, and automated response generation, reducing average response times by 40% ',
+' Implemented role-based access control system with team invitation workflows, enabling seamless onboarding of Admin, Agent, and Member roles across organizations',
+' Developed multi-channel support system handling Email, WhatsApp, Phone, and Chat communications with unified ticket management and SLA tracking',
+' Built real-time analytics dashboard with Redux Toolkit and RTK Query, visualizing team performance metrics, ticket trends, and revenue analytics for data-driven decision making',
+' Architected scalable frontend using Next.js 14 App Router, TypeScript, and Tailwind CSS with custom design system, ensuring responsive experiences across mobile and desktop ',
+' Designed AI agent settings and knowledge:',
+    ],
+    startDate: 'Jan 2025',
+    endDate: 'Present',
+    technologies: [
+      {
+        name: 'React',
+        href: 'https://react.dev/',
+        icon: <ReactIcon />,
+      },
+      {
+        name: 'Next.js',
+        href: 'https://nextjs.org/',
+        icon: <NextJs />,
+      },
+      {
+        name: 'Node.js',
+        href: 'https://nodejs.org/',
+        icon: <NodeJs />,
+      },
+      {
+        name: 'TypeScript',
+        href: 'https://www.typescriptlang.org/',
+        icon: <TypeScript />,
+      },
+    ],
+    website: '#',
+  },
   {
     isCurrent: false,
     company: 'DLHO Solutions',
