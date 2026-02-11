@@ -1,26 +1,26 @@
 export const quotes = [
   {
-    quote: `A good Navy is not a provocation to war. It is the surest guaranty of peace.`,
-    author: 'President Theodore Roosevelt',
+    quote: `Programming is the act of constructing a program—a set of precise instructions telling a computer what to do.`,
+    author: 'Marijn Haverbeke, Eloquent JavaScript',
   },
   {
-    quote: `The Navy has both a tradition and a future—and we look with confidence and faith in both directions.`,
-    author: 'Admiral Arleigh Burke',
+    quote: `The art of programming is the skill of controlling complexity.`,
+    author: 'Marijn Haverbeke, Eloquent JavaScript',
   },
   {
-    quote: `Ships at a distance are beautiful; close up, they are all work.`,
-    author: 'Rear Admiral Daniel V. Gallery',
+    quote: `A program is a building of thought.`,
+    author: 'Marijn Haverbeke, Eloquent JavaScript',
   },
   {
-    quote: `Without a decisive naval force we can do nothing definitive, and with it, everything honorable and glorious.`,
-    author: 'General George Washington',
+    quote: `Computers themselves can do only stupidly straightforward things.`,
+    author: 'Marijn Haverbeke, Eloquent JavaScript',
   },
   {
-    quote: `The sea is the same as it has been since before men ever went on it in boats.`,
-    author: 'Ernest Hemingway',
+    quote: `JavaScript programs are built on a foundation of functions.`,
+    author: 'Marijn Haverbeke, Eloquent JavaScript',
   },
   {
-    quote: `A powerful Navy we have always regarded as our proper and natural means of defense.`,
-    author: 'President Abraham Lincoln',
+    quote: `Learning to program is learning to think precisely.`,
+    author: 'Marijn Haverbeke, Eloquent JavaScript',
   },
 ];
