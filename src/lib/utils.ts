@@ -8,7 +8,7 @@ export function cn(...inputs: ClassValue[]) {
 // Base path for GitHub Pages deployment
 // Change 'personal' to your actual repository name
 // Set to '' if using custom domain
-const BASE_PATH = '/porfolio'
+const BASE_PATH = ''
 
 export function getImagePath(path: string): string {
   // If it's already a full URL, return as is
